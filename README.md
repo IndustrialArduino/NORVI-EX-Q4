@@ -15,5 +15,5 @@ Address Configurable Over DIP Switch
 MCP23008 I2C I/O Expander provider is used to Write Transistor Outputs. 
 Outputs are open collectors supporting up to 36V DC
 
-Datasheet:   https://drive.google.com/open?id=1E3X3ttYArcKHOGT32pfX21IcI45TDtxy&usp=drive_fs
-User Guide:  https://drive.google.com/open?id=1hZ07QVz93wg3vIrZaDPe60OlkN_Vhypj&usp=drive_fs
+Datasheet:   https://norvi.lk/docs/norvi-ex-q4-datasheet/
+User Guide:  https://norvi.lk/docs/norvi-ex-q4_user-guide/
