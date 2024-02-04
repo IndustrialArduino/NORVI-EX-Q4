@@ -1,4 +1,4 @@
-1#include <Adafruit_MCP23X17.h>
+#include <Adafruit_MCP23X17.h>
 
 #define OUTPUT1 3
 #define OUTPUT2 2
